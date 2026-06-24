@@ -99,8 +99,3 @@ The project successfully analyzed retail sales data and generated meaningful bus
 * Product Recommendation System
 * Real-Time Sales Monitoring
 
-
-
-
-Ganadipathy Tulsi's Jain Engineering College
-# saranya-g
