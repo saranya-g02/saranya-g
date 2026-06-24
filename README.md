@@ -1,5 +1,8 @@
 # Sales Data Analysis and Reporting for a Retail Chain
 
+## Data sources:
+https://www.kaggle.com/datasets/vijayuv/onlineretail
+
 ## Project Overview
 
 This project focuses on analyzing retail sales transaction data to identify sales trends, customer purchasing behavior, product performance, and business insights. The analysis was performed using Python and Data Analytics techniques.
