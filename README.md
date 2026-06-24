@@ -103,7 +103,7 @@ The project successfully analyzed retail sales data and generated meaningful bus
 
 Saranya G
 
-B.Tech Artificial Intelligence and Data Science
+
 
 Ganadipathy Tulsi's Jain Engineering College
 # saranya-g
