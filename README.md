@@ -1,4 +1,4 @@
- Sales Data Analysis and Reporting for a Retail Chain
+ #Sales Data Analysis and Reporting for a Retail Chain
 
 ## Project Overview
 
